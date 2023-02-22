@@ -4,7 +4,7 @@
  * print_last_digit - print the last digit of an integer
  * Return: last digit
  */
-int print_last_digit(int a)
+int _ print_last_digit(int a)
 {
 	int last_digit;
 
